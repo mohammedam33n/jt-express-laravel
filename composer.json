@@ -1,0 +1,22 @@
+{
+    "name": "amin/jt-express-laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amin\\JtExpressLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ameen",
+            "email": "mohamm3dameen@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^7.9"
+    }
+}
