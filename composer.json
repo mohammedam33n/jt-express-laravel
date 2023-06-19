@@ -1,9 +1,9 @@
 {
-    "name": "amin/jt-express-laravel",
+    "name": "mohammedam33n/jt-express-laravel",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Amin\\JtExpressLaravel\\": "src/"
+            "mohammedam33n\\JtExpressLaravel\\": "src/"
         }
     },
     "authors": [
