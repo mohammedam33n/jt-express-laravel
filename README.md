@@ -86,7 +86,7 @@ run command:
 This function will return object.
 
 
-### create order:
+### checking order:
 - this function to checking order , just pass following params:
 
 ```bash
@@ -103,7 +103,7 @@ This function will return object.
 This function will return object.
 
 
-### create order:
+### checking order:
 - this function to checking order , just pass following params:
 
 ```bash
@@ -121,7 +121,7 @@ This function will return object.
 This function will return object.
 
 
-### create order:
+### cancel order:
 - this function to cancel order , just pass following params:
 
 ```bash
